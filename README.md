@@ -202,3 +202,20 @@ Apabila kita menginput 'k' maka program akan langsung berhenti.
         print("Pilih menu yang tersedia")
 ```
 Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita akan diminta untuk memilih menu yang tersedia.
+
+### Tampilan Program Saat Dijalankan
+
+##### Tambah Data + Lihat Data
+![tambah data1]()
+
+##### Ubah Data + Lihat Data
+![ubah data1]()
+
+##### Cari Data
+![cari data]()
+
+##### Hapus Data + Lihat Data
+![hapus data]()
+
+##### Keluar
+![keluar]()
