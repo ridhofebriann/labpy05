@@ -107,7 +107,7 @@ Program menampilkan pesan bahwa pilihan tidak tersedia dan kembali ke langkah 2 
 
 
 
-### Program Data Mahasiswa
+# Program Data Mahasiswa
 
 Pada praktikum 5, kita akan membuat program sederhana untuk membuat data mahasiswa menggunakan Dictionary dengan python.
 
