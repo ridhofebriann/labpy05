@@ -316,13 +316,17 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 
 
 ##### Ubah Data + Lihat Data
-![ubah data1]()
+![ubah data1](https://github.com/user-attachments/assets/d12b9a33-cca2-470a-866e-b6773c66550a)
+
 
 ##### Cari Data
-![cari data]()
+![cari data](https://github.com/user-attachments/assets/ee178fd6-8f04-47a1-95c6-e0d48dc2ce3a)
+
 
 ##### Hapus Data + Lihat Data
-![hapus data]()
+![hapus data](https://github.com/user-attachments/assets/2946d9ae-0a59-44d5-852f-5e3d37b971a4)
+
 
 ##### Keluar
-![keluar]()
+![keluar](https://github.com/user-attachments/assets/1df26cc0-de5c-462b-a1b5-8897d0ced19d)
+
