@@ -47,13 +47,13 @@ Nilai Akhir = (Nilai Tugas * 30%) + (Nilai UTS * 35%) + (Nilai UAS * 35%)
   2.Program memeriksa apakah nama tersebut ada dalam data:
    
    
-  Jika nama ditemukan:
+#### Jika nama ditemukan:
 
 Program meminta pengguna untuk memasukkan data baru (NIM, UTS, UAS, Tugas).
 Program menghitung nilai akhir yang baru dan memperbarui data mahasiswa.
     
 
-    Jika nama tidak ditemukan:
+#### Jika nama tidak ditemukan:
 
 Program menampilkan pesan bahwa nama tidak ditemukan.
 Program kembali ke langkah 2 untuk menampilkan menu utama.
@@ -63,12 +63,12 @@ Program kembali ke langkah 2 untuk menampilkan menu utama.
 Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin dihapus.
 Program memeriksa apakah nama tersebut ada dalam data:
 
-Jika nama ditemukan:
+#### Jika nama ditemukan:
 
 Program menghapus data mahasiswa dari struktur data.
 Program menampilkan pesan bahwa data telah dihapus.
 
-Jika nama tidak ditemukan:
+#### Jika nama tidak ditemukan:
 
 Program menampilkan pesan bahwa nama tidak ditemukan.
 Program kembali ke langkah 2 untuk menampilkan menu utama.
@@ -78,11 +78,11 @@ Program kembali ke langkah 2 untuk menampilkan menu utama.
 Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin dicari.
 Program memeriksa apakah nama tersebut ada dalam data:
 
-Jika nama ditemukan:
+#### Jika nama ditemukan:
 
 Program menampilkan informasi lengkap tentang mahasiswa (Nama, NIM, UTS, UAS, Tugas, Nilai Akhir).
 
-Jika nama tidak ditemukan:
+#### Jika nama tidak ditemukan:
 
 Program menampilkan pesan bahwa nama tidak ditemukan.
 Program kembali ke langkah 2 untuk menampilkan menu utama.
@@ -91,11 +91,11 @@ Program kembali ke langkah 2 untuk menampilkan menu utama.
 
 Program memeriksa apakah ada data mahasiswa yang tersimpan:
 
-Jika ada data:
+#### Jika ada data:
 
 Program menampilkan semua data mahasiswa dalam format tabel.
 
-Jika tidak ada data:
+#### Jika tidak ada data:
 
 Program menampilkan pesan bahwa tidak ada data yang tersedia.
 Program kembali ke langkah 2 untuk menampilkan menu utama.
@@ -104,7 +104,7 @@ Program kembali ke langkah 2 untuk menampilkan menu utama.
 
 Program berhenti dan keluar dari loop, mengakhiri proses.
 
-Jika pengguna memasukkan pilihan yang tidak valid:
+#### Jika pengguna memasukkan pilihan yang tidak valid:
 
 Program menampilkan pesan bahwa pilihan tidak tersedia dan kembali ke langkah 2 untuk menampilkan menu utama. 
 
