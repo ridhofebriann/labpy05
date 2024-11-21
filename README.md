@@ -2,7 +2,7 @@
 # Praktikum 5
 
 # flowchart
-![foto](https://github.com/ridhofebriann/labpy05/blob/main/flowchart.png?raw=true)
+![foto](https://github.com/ridhofebriann/labpy05/blob/main/flowchart..png?raw=true)
 
 ### penjelelasan flowchart
 
