@@ -46,11 +46,15 @@ Nilai Akhir = (Nilai Tugas * 30%) + (Nilai UTS * 35%) + (Nilai UAS * 35%)
   1.Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin diubah.
   2.Program memeriksa apakah nama tersebut ada dalam data:
    
-    Jika nama ditemukan:
+   
+  Jika nama ditemukan:
+
 Program meminta pengguna untuk memasukkan data baru (NIM, UTS, UAS, Tugas).
 Program menghitung nilai akhir yang baru dan memperbarui data mahasiswa.
     
+
     Jika nama tidak ditemukan:
+
 Program menampilkan pesan bahwa nama tidak ditemukan.
 Program kembali ke langkah 2 untuk menampilkan menu utama.
 
