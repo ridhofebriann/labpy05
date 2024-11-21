@@ -312,7 +312,8 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 ### Tampilan Program Saat Dijalankan
 
 ##### Tambah Data + Lihat Data
-![tambah data1]()
+![tambah data1](https://github.com/user-attachments/assets/811e5f15-bc2b-4885-921e-82cee2179e42)
+
 
 ##### Ubah Data + Lihat Data
 ![ubah data1]()
