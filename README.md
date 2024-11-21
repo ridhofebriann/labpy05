@@ -1,6 +1,94 @@
 # labpy05
 # Praktikum 5
 
+# flowchart
+![foto]()
+
+### penjelelasan flowchart
+
+### 1. Mulai Program
+
+  Program dimulai dan siap untuk menerima input dari pengguna.
+
+### 2. Tampilkan Menu Utama
+
+   Program menampilkan pilihan menu kepada pengguna:
+(T)ambah
+(U)bah
+(H)apus
+(C)ari
+(L)ihat
+(K)eluar
+
+### 3. Input Pilihan Menu
+
+Pengguna diminta untuk memasukkan pilihan menu yang diinginkan.
+
+### 4. Pemeriksaan Pilihan
+
+Program memeriksa pilihan yang dimasukkan oleh pengguna:
+
+### Jika pengguna memilih 'T' (Tambah):
+
+  1. Program meminta pengguna untuk memasukkan data mahasiswa baru:
+Nama
+NIM
+Nilai UTS
+Nilai UAS
+Nilai Tugas
+  2. Program menghitung nilai akhir menggunakan rumus:
+Nilai Akhir = (Nilai Tugas * 30%) + (Nilai UTS * 35%) + (Nilai UAS * 35%)
+  3. Data mahasiswa disimpan dalam struktur data (dictionary) dengan nama sebagai kunci dan NIM, UTS, UAS, Tugas, dan Nilai Akhir sebagai nilai.
+  4.Program kembali ke langkah 2 untuk menampilkan menu utama.
+
+### Jika pengguna memilih 'U' (Ubah):
+
+  1.Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin diubah.
+  2.Program memeriksa apakah nama tersebut ada dalam data:
+    -Jika nama ditemukan:
+Program meminta pengguna untuk memasukkan data baru (NIM, UTS, UAS, Tugas).
+Program menghitung nilai akhir yang baru dan memperbarui data mahasiswa.
+    -Jika nama tidak ditemukan:
+Program menampilkan pesan bahwa nama tidak ditemukan.
+Program kembali ke langkah 2 untuk menampilkan menu utama.
+
+### Jika pengguna memilih 'H' (Hapus):
+
+Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin dihapus.
+Program memeriksa apakah nama tersebut ada dalam data:
+Jika nama ditemukan:
+Program menghapus data mahasiswa dari struktur data.
+Program menampilkan pesan bahwa data telah dihapus.
+Jika nama tidak ditemukan:
+Program menampilkan pesan bahwa nama tidak ditemukan.
+Program kembali ke langkah 2 untuk menampilkan menu utama.
+
+### Jika pengguna memilih 'C' (Cari):
+
+Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin dicari.
+Program memeriksa apakah nama tersebut ada dalam data:
+Jika nama ditemukan:
+Program menampilkan informasi lengkap tentang mahasiswa (Nama, NIM, UTS, UAS, Tugas, Nilai Akhir).
+Jika nama tidak ditemukan:
+Program menampilkan pesan bahwa nama tidak ditemukan.
+Program kembali ke langkah 2 untuk menampilkan menu utama.
+
+### Jika pengguna memilih 'L' (Lihat):
+
+Program memeriksa apakah ada data mahasiswa yang tersimpan:
+Jika ada data:
+Program menampilkan semua data mahasiswa dalam format tabel.
+Jika tidak ada data:
+Program menampilkan pesan bahwa tidak ada data yang tersedia.
+Program kembali ke langkah 2 untuk menampilkan menu utama.
+
+### Jika pengguna memilih 'K' (Keluar):
+
+Program berhenti dan keluar dari loop, mengakhiri proses.
+Jika pengguna memasukkan pilihan yang tidak valid:
+
+Program menampilkan pesan bahwa pilihan tidak tersedia dan kembali ke langkah 2 untuk menampilkan menu utama. 
+
 ### Program Data Mahasiswa
 
 Pada praktikum 5, kita akan membuat program sederhana untuk membuat data mahasiswa menggunakan Dictionary dengan python.
