@@ -1,4 +1,12 @@
 # labpy05
+Nama        : M.Ridho Febrian <p>
+
+Kelas       : TI.24.A.5 <p>
+
+Nim         : 312410500 <p>
+
+Mata kuliah : Bahasa Pemrograman <p>
+
 # Praktikum 5
 
 # flowchart
